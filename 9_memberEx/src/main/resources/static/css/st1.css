@@ -1,0 +1,37 @@
+@charset "UTF-8";
+#header{
+	background-color:#617073 ;
+	width: 50%;
+	height:100px;
+	margin-left: 25%;
+	
+}
+#navigater{
+	
+	background-color:#7A93AC;
+	width: 50%;
+	height:30px;
+	margin-left: 25%;
+}
+#nav{
+	color:white;
+	padding-left:60%;
+	
+}
+#content{
+	background-color:#92BCEA;
+	width: 50%;
+	height:600px;
+	margin-left: 25%;
+}
+#con{
+	padding-left:10%;
+	padding-top: 200px;
+}
+#footer{
+	background-color:#AFB3F7;
+	width: 50%;
+	height:50px;
+	margin-left: 25%;
+}
+
